@@ -1,3 +1,81 @@
 body {
-    font-family: "Poppins", sans-serif;
+    font-family: "Poetsen One", sans-serif;
+}
+
+.Skip {
+    color: orange;
+}
+
+.Flexible {
+    display: flex;
+    margin-bottom: 150px;
+
+}
+
+.width {
+    width: 50%;
+    padding-left: 5%;
+
+}
+
+.li {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 40px;
+    font-weight: 700;
+    color: white;
+    border-radius: 999px;
+
+
+}
+
+.size {
+    width: 300px;
+    height: 500px;
+}
+
+.flexible {
+    display: flex;
+    margin-bottom: 150px;
+    background-image: url(Frame.jpg);
+}
+
+.Align {
+    text-align: center;
+}
+
+.SZ {
+    display: flex;
+    margin-top: 150px;
+    margin-right: 150px;
+}
+
+#SIZ {
+    height: 300px;
+    width: 300px;
+}
+
+.wi {
+    width: 33.3%
+}
+
+#developer {
+    width: 30%;
+    padding: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 60px gray;
+    border-radius: 10px;
+
+}
+
+.wide {
+    width: 33.3%;
+    padding: 15px;
+    margin-top: 150px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 60px gray;
+    border-radius: 10px;
+
 }
